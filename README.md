@@ -1,5 +1,7 @@
 # Learn-Solidity
 
+Repos based on the Alchemy University course. [7 Weeks Course]
+
 ## Usefull Links
 
 - https://soliditylang.org/ (official website and documentation of the Solidity team itself)
